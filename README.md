@@ -19,8 +19,9 @@ To deploy this project run A7fG9kL3qXpZ0rT6W2Y.exe (Random string to not flag th
 
 ## IMAGES
 
-(https://github.com/user-attachments/assets/fdd8ee65-7f46-4fdd-835b-2fc6b77bce1d)
-(https://github.com/user-attachments/assets/2b8c0ccb-43cb-4615-9529-6830bbbb2301)
+![image](https://github.com/user-attachments/assets/593a3204-e4a5-4ba8-a671-9720e5d91933)
+
+![image2](https://github.com/user-attachments/assets/c196d652-c3bf-407c-9754-4d2b19380b44)
 
 
 ## License
